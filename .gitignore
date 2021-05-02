@@ -69,3 +69,9 @@ build-android/third_party
 *.includes
 .vscode/
 .DS_Store
+.vs/
+x64/
+
+*.user
+
+VulkanTutorial/
